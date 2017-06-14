@@ -1,8 +1,2 @@
-11111
 sample
 sample123
-00000
-abcde
-12345
-zzzzz
-99999
